@@ -1,0 +1,10 @@
+*{margin:0;padding:0}
+table {
+    border-collapse:collapse;
+    position:absolute;
+    top:25%;
+    left:10%;
+}
+td{padding-top:10px}
+.num{text-align: center;}
+.desc{padding-left:35px;}
